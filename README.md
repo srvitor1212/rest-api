@@ -1,6 +1,6 @@
 # rest-api
 
-Design patterns: https://refactoring.guru/design-patterns/python
+Design patterns: https://refactoring.guru/pt-br/design-patterns/python
 
 Fast API: https://fastapi.tiangolo.com/
 
